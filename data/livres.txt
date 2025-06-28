@@ -1,0 +1,7 @@
+9781234567890;Python Facile;Jean Dupont;2020;Programmation;emprunté:M003
+9789876543210;Tkinter Avancé;Marie Curie;2019;Informatique;emprunté:M001
+9780001112223;Histoire du Monde;Paul Historien;2010;Histoire;disponible
+9782223334445;Le Petit Prince;Antoine de Saint-Exupéry;1943;Roman;emprunté:M001
+9785556667778;L'Énigme Quantique;A. Einstein;2021;Science;emprunté:M001
+1;misirable;Jean Dupont;2024;ai;disponible
+2;test;Test auteur;2023;ai;disponible
